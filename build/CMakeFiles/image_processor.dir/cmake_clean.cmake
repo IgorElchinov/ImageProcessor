@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/image_processor.dir/image_processor.o"
+  "CMakeFiles/image_processor.dir/image_processor.o.d"
+  "CMakeFiles/image_processor.dir/src/core/application.o"
+  "CMakeFiles/image_processor.dir/src/core/application.o.d"
+  "CMakeFiles/image_processor.dir/src/core/bmp.o"
+  "CMakeFiles/image_processor.dir/src/core/bmp.o.d"
+  "CMakeFiles/image_processor.dir/src/core/factory.o"
+  "CMakeFiles/image_processor.dir/src/core/factory.o.d"
+  "CMakeFiles/image_processor.dir/src/core/matrix.o"
+  "CMakeFiles/image_processor.dir/src/core/matrix.o.d"
+  "CMakeFiles/image_processor.dir/src/core/parse.o"
+  "CMakeFiles/image_processor.dir/src/core/parse.o.d"
+  "CMakeFiles/image_processor.dir/src/core/pipeline.o"
+  "CMakeFiles/image_processor.dir/src/core/pipeline.o.d"
+  "CMakeFiles/image_processor.dir/src/core/utils.o"
+  "CMakeFiles/image_processor.dir/src/core/utils.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/base_filter.o"
+  "CMakeFiles/image_processor.dir/src/filters/base_filter.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/compress.o"
+  "CMakeFiles/image_processor.dir/src/filters/compress.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/crop.o"
+  "CMakeFiles/image_processor.dir/src/filters/crop.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/edge_detection.o"
+  "CMakeFiles/image_processor.dir/src/filters/edge_detection.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/gaussian_blur.o"
+  "CMakeFiles/image_processor.dir/src/filters/gaussian_blur.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/grayscale.o"
+  "CMakeFiles/image_processor.dir/src/filters/grayscale.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/negative.o"
+  "CMakeFiles/image_processor.dir/src/filters/negative.o.d"
+  "CMakeFiles/image_processor.dir/src/filters/sharpening.o"
+  "CMakeFiles/image_processor.dir/src/filters/sharpening.o.d"
+  "image_processor"
+  "image_processor.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/image_processor.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

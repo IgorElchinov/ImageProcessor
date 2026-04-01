@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/image_processor.o -c /Users/igor/Documents/GitHub/image_processor/image_processor.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/image_processor.cpp",
+  "output": "CMakeFiles/image_processor.dir/image_processor.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/core/application.o -c /Users/igor/Documents/GitHub/image_processor/src/core/application.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/core/application.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/core/application.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/core/bmp.o -c /Users/igor/Documents/GitHub/image_processor/src/core/bmp.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/core/bmp.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/core/bmp.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/core/factory.o -c /Users/igor/Documents/GitHub/image_processor/src/core/factory.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/core/factory.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/core/factory.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/core/matrix.o -c /Users/igor/Documents/GitHub/image_processor/src/core/matrix.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/core/matrix.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/core/matrix.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/core/parse.o -c /Users/igor/Documents/GitHub/image_processor/src/core/parse.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/core/parse.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/core/parse.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/core/pipeline.o -c /Users/igor/Documents/GitHub/image_processor/src/core/pipeline.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/core/pipeline.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/core/pipeline.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/core/utils.o -c /Users/igor/Documents/GitHub/image_processor/src/core/utils.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/core/utils.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/core/utils.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/filters/base_filter.o -c /Users/igor/Documents/GitHub/image_processor/src/filters/base_filter.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/filters/base_filter.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/filters/base_filter.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/filters/crop.o -c /Users/igor/Documents/GitHub/image_processor/src/filters/crop.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/filters/crop.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/filters/crop.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/filters/edge_detection.o -c /Users/igor/Documents/GitHub/image_processor/src/filters/edge_detection.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/filters/edge_detection.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/filters/edge_detection.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/filters/gaussian_blur.o -c /Users/igor/Documents/GitHub/image_processor/src/filters/gaussian_blur.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/filters/gaussian_blur.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/filters/gaussian_blur.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/filters/grayscale.o -c /Users/igor/Documents/GitHub/image_processor/src/filters/grayscale.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/filters/grayscale.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/filters/grayscale.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/filters/negative.o -c /Users/igor/Documents/GitHub/image_processor/src/filters/negative.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/filters/negative.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/filters/negative.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/filters/sharpening.o -c /Users/igor/Documents/GitHub/image_processor/src/filters/sharpening.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/filters/sharpening.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/filters/sharpening.o"
+},
+{
+  "directory": "/Users/igor/Documents/GitHub/image_processor/build",
+  "command": "/usr/bin/clang++  -I/Users/igor/Documents/GitHub/image_processor/src/core -I/Users/igor/Documents/GitHub/image_processor/src/filters -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk -mmacosx-version-min=26.3 -o CMakeFiles/image_processor.dir/src/filters/compress.o -c /Users/igor/Documents/GitHub/image_processor/src/filters/compress.cpp",
+  "file": "/Users/igor/Documents/GitHub/image_processor/src/filters/compress.cpp",
+  "output": "CMakeFiles/image_processor.dir/src/filters/compress.o"
+}
+]
