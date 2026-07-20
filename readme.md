@@ -37,7 +37,7 @@
 │       ├── grayscale.h / grayscale.cpp
 │       ├── negative.h / negative.cpp
 │       └── sharpening.h / sharpening.cpp
-└── test/ (Deleted because of linter check. See 'Implemented gaussian blur' commit)
+└── test/
     ├── test_utils.h / test_utils.cpp
     ├── test_base_filter.cpp
     ├── test_bmp.cpp
@@ -46,5 +46,10 @@
     ├── test_matrix.cpp
     ├── test_negative.cpp
     ├── test_parser.cpp
-    └── test_pipeline.cpp
+    ├── test_pipeline.cpp
+    └── data/ (BMP fixtures used by the tests)
 ```
+
+## Tests
+
+Each file under `test/` builds as its own CMake target (e.g. `test_bmp`, `test_crop`, ...) alongside the main `image_processor` executable.
